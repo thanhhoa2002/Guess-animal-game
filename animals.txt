@@ -1,6 +1,10 @@
 Can it fly?
 Does it have feathers?
 Does it sometimes live in water?
+Does it have a pink fur?
+Is it a flamingo?
+#
+#
 Is it a mallard?
 #
 #
@@ -15,7 +19,19 @@ Is it a bat?
 #
 #
 Does it run fast?
+Does it have long ears?
+Is it a rabbit?
+#
+#
 Is it a leopard?
+#
+#
+Does it live in Antarctic?
+Can it not stand?
+Is it a seal?
+#
+#
+Is it a penguin?
 #
 #
 Is it a turtle?
